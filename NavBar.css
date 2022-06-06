@@ -1,0 +1,30 @@
+/*New CSS code*/
+.Nav-bar {
+  height: 8vmin;
+  background-color: #ff7171;
+  width: 100%;
+}
+.Nav-title {
+  display: inline;
+  margin: 1.5vmin;
+  font-size: 2vmin;
+}
+.menu-tab {
+  display: inline-block;
+  width: auto;
+  /*border: 1px solid black*/
+  margin-left: 3vmin;
+  margin-top: 1vmin;
+  color: #353535;
+  font-size: 3vmin;
+}
+.menu-tab:hover {
+  color: white;
+  border: 1px solid white;
+}
+.menu-text {
+  margin: 0;
+  margin-left: 2vmin;
+  margin-right: 2vmin;
+  padding: 1vmin 2vmin;
+}
